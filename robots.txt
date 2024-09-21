@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nkoym.github.io/wGO/sitemap.wGO.gz
